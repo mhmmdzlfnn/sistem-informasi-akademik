@@ -5,8 +5,6 @@ FR-02 Mahasiswa dapat mengisi KRS
 FR-03 Mahasiswa dapat melihat nilai dan KHS  
 FR-04 Dosen dapat menginput nilai dan kehadiran mahasiswa  
 FR-05 Staf Akademik dapat mengelola data akademik  
-FR-06 Mahasiswa dapat mengunggah sertifikat kegiatan atau lomba  
-FR-07 Staf Akademik dapat memverifikasi sertifikat mahasiswa  
 
 ## Non-Functional Requirements
 
